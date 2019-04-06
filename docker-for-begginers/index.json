@@ -1,6 +1,8 @@
 {
   "title": "Docker For Begginers",
   "description": "A Short example on how to build a simple application in docker",
+  "difficulty": "beginner",
+  "time": "2 minutes",
   "details": {
     "steps": [
       {
@@ -24,7 +26,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "docker"
